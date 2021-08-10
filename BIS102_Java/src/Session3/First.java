@@ -2,7 +2,6 @@ package Session3;
 
 public class First {
 	
-
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		//displayAddress();
@@ -16,8 +15,7 @@ public class First {
 		double gross;
 		gross = hours *STD_RATE;
 		System.out.println(hours + " hours at $"+STD_RATE + " per hour is $" + gross);
-		
-		
+			
 	}
 	
 //	public static void displayAddress() {
