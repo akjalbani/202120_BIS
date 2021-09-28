@@ -4,9 +4,9 @@ public class CollegeList {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		CollegeEmployee[] emp = new CollegeEmployee[2];
-		Faculty[] fac = new Faculty[1];
-		Student[] stu = new Student[2];
+		CollegeEmployee[] emp = new CollegeEmployee[4];
+		Faculty[] fac = new Faculty[3];
+		Student[] stu = new Student[7];
 
 		int empCount = 0, facCount = 0, stuCount = 0;
 		char letter;
